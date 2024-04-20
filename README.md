@@ -3,4 +3,4 @@
 Html, Css kullanarak oluşturulmuş pizza alışveriş ve tanıtım sitesidir.
 
 # SCREEN GİF
-![](pizza.mp4);
+![](pizza.gif);
